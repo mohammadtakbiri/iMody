@@ -1,9 +1,15 @@
+<div align="center">
+  
 # iMody 🌈
+
+<img src="https://i.imgur.com/yhpzWEl.png" alt="iMody App" width="600"/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-5.5-orange.svg" alt="Swift 5.5"/>
   <img src="https://img.shields.io/badge/Platform-iOS%2015.0+-blue.svg" alt="iOS 15.0+"/>
   <img src="https://img.shields.io/badge/SwiftUI-3.0-purple.svg" alt="SwiftUI 3.0"/>
+</div>
+
 </div>
 
 ## About 📱
